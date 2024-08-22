@@ -8,8 +8,6 @@
 <hr> 
 <br>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=flavia-munhoz&show_icons=true&locale=en&layout=compact" alt="flavia-munhoz" />
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=flavia-munhoz&" alt="flavia-munhoz" />
 </div>
 
 
