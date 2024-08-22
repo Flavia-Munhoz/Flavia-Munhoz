@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Fafáh Munhóz</h1>
+<div align="left">
+<h1 >Hi 👋, I'm Fafáh Munhóz</h1>
 
-<h3 align="center">Frontend Developer and student</h3>
+<h3 >Frontend Developer and student</h3>
 
-<p align="center">
-  🌱 **I’m currently learning Systems Analysis and Development, Python and JS**
-
+<p>
+  🌱 I’m currently learning Systems Analysis and Development, Python and JS
 </p>
+</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
