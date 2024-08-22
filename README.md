@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fafáh Munhóz</h1>
 <h3 align="center">Frontend Developer and student</h3>
 
-- 🌱 I’m currently learning **Systems Analysis and Development, Python and JS**
+ 🌱 **I’m currently learning **Systems Analysis and Development, Python and JS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
